@@ -2,7 +2,7 @@
 
 I'm a senior Computer Science student with a concentration in **Software Engineering** and **Mobile App Development** — passionate about building clean, scalable applications and intuitive mobile experiences.
 
-🎓 &nbsp;B.S. Computer Science — graduating 2025  
+🎓 &nbsp;B.S. Computer Science — graduating 2026  
 💼 &nbsp;Actively seeking full-time roles & internships  
 📱 &nbsp;Love building for web and mobile  
 ⚡ &nbsp;Currently working on **ListThat** — a collaborative task management app  
