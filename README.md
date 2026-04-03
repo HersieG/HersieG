@@ -45,10 +45,9 @@ I'm a senior Computer Science student with a concentration in **Software Enginee
 
 | | |
 |---|---|
-| 📧 Email | [your@email.com](mailto:your@email.com) |
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| 🐦 Twitter/X | [@yourhandle](https://twitter.com/yourhandle) |
-| 🌐 Portfolio | [yourwebsite.com](https://yourwebsite.com) |
+| 📧 Email | [your@email.com](mailto:hersiedgonzalez@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com/in/hersie-gonzalez) |
+| 🌐 Portfolio | [yourwebsite.com](https://hersiegonzalez.com) |
 
 ---
 
